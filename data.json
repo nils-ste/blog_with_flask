@@ -1,1 +1,8 @@
-[{"id": 1, "author": "bob", "title": "cat", "content": "hololo"}]
+[
+  {
+    "id": 1,
+    "author": "bob",
+    "title": "cat",
+    "content": "hololo"
+  }
+]
